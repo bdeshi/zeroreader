@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "*"
+mysql-connector-python = "*"
+requests = "*"
+beautifulsoup4 = "*"
+html5lib = "*"
+python-dotenv = "*"
+
+[requires]
+python_version = "3.7.3"
