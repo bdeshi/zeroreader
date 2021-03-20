@@ -1,21 +1,21 @@
-# generated from Pipfile
+-i https://pypi.python.org/simple/
 beautifulsoup4==4.8.2
-certifi==2019.11.28
+certifi==2020.12.5
 chardet==3.0.4
-Click==7.0
+click==7.1.2
 dnspython==1.16.0
-Flask==1.1.1
+flask==1.1.1
 html5lib==1.0.1
 idna==2.8
 itsdangerous==1.1.0
-Jinja2==2.11.1
-MarkupSafe==1.1.1
+jinja2==2.11.3
+markupsafe==1.1.1
 mysql-connector-python==8.0.19
 protobuf==3.6.1
 python-dotenv==0.10.5
 requests==2.22.0
-six==1.14.0
-soupsieve==1.9.5
-urllib3==1.25.8
+six==1.15.0
+soupsieve==2.2.1
+urllib3==1.25.11
 webencodings==0.5.1
-Werkzeug==0.16.1
+werkzeug==1.0.1
